@@ -1,3 +1,5 @@
+package de.supernerd;
+
 import java.util.*;
 
 public class StudentRepo {

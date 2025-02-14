@@ -1,3 +1,5 @@
+package de.supernerd;
+
 import lombok.Builder;
 import lombok.With;
 
